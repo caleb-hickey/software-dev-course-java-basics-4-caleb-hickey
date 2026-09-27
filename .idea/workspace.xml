@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Added example exercise and improved instructions." />
+    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Added example exercise and improved instructions.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "caleb-hickey"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:caleb-hickey/software-dev-course-java-basics-4-caleb-hickey.git",
+    "accountId": "c518ddee-3e0a-4294-ae51-19e043af1c8c"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0002204304110802" />
+      <entry key="S2" value="1.2332852728697044" />
+      <entry key="S5" value="2.499887780619918" />
+      <entry key="S10" value="4.275921746611465" />
+      <entry key="S30" value="6.877154408918579" />
+      <entry key="S60" value="8.098384886785501" />
+      <entry key="M2" value="9.710951683444664" />
+      <entry key="M5" value="13.767924635314559" />
+      <entry key="M10" value="19.806921155169825" />
+      <entry key="M15" value="24.05241810564837" />
+      <entry key="M30" value="30.62626057022866" />
+      <entry key="H1" value="35.214000419382074" />
+      <entry key="H2" value="37.93800406039632" />
+      <entry key="H4" value="39.424072480790855" />
+      <entry key="D1" value="40.73086335285239" />
+      <entry key="W1" value="40.96138990807239" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.857623593082895E-4" />
+      <entry key="MS500" value="0.20765202351877796" />
+      <entry key="S2" value="0.8345160580694666" />
+      <entry key="S5" value="2.169618122133878" />
+      <entry key="S10" value="3.990278238208094" />
+      <entry key="S30" value="6.7172384224230015" />
+      <entry key="S60" value="8.003181023558293" />
+      <entry key="M2" value="9.653808415616057" />
+      <entry key="M5" value="13.735117756241415" />
+      <entry key="M10" value="19.783174421608006" />
+      <entry key="M15" value="24.033197577554468" />
+      <entry key="M30" value="30.614053598368816" />
+      <entry key="H1" value="35.20699803384187" />
+      <entry key="H2" value="37.934237111505304" />
+      <entry key="H4" value="39.42211666888799" />
+      <entry key="D1" value="40.730526796321904" />
+      <entry key="W1" value="40.961341561929444" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -31,20 +105,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CollectionExerciseTests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mlamb/projects/java/software-dev-course-java-basics-4/pom.xml&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.CollectionExerciseTests.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeFruitStringArray.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeFruitStringArrayWithSize.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeTopThreeArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/calebhickey/Documents/LaunchCode/01 2026 Cohort/U2/software-dev-course-java-basics-4-caleb-hickey",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="JUnit.CollectionExerciseTests.testMakeTopThreeArray">
     <configuration name="CollectionExerciseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
       <extension name="coverage">
@@ -60,11 +147,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CollectionExerciseTests.testMakeFruitStringArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
+      <option name="METHOD_NAME" value="testMakeFruitStringArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionExerciseTests.testMakeFruitStringArrayWithSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
+      <option name="METHOD_NAME" value="testMakeFruitStringArrayWithSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionExerciseTests.testMakeTopThreeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
+      <option name="METHOD_NAME" value="testMakeTopThreeArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeTopThreeArray" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitStringArrayWithSize" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitStringArray" />
         <item itemvalue="JUnit.CollectionExerciseTests" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +239,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
