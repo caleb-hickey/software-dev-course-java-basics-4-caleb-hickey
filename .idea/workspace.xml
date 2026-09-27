@@ -38,22 +38,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0002204304110802" />
-      <entry key="S2" value="1.2332852728697044" />
-      <entry key="S5" value="2.499887780619918" />
-      <entry key="S10" value="4.275921746611465" />
-      <entry key="S30" value="6.877154408918579" />
-      <entry key="S60" value="8.098384886785501" />
-      <entry key="M2" value="9.710951683444664" />
-      <entry key="M5" value="13.767924635314559" />
-      <entry key="M10" value="19.806921155169825" />
-      <entry key="M15" value="24.05241810564837" />
-      <entry key="M30" value="30.62626057022866" />
-      <entry key="H1" value="35.214000419382074" />
-      <entry key="H2" value="37.93800406039632" />
-      <entry key="H4" value="39.424072480790855" />
-      <entry key="D1" value="40.73086335285239" />
-      <entry key="W1" value="40.96138990807239" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.00002834755297" />
+      <entry key="S5" value="1.032166655264664" />
+      <entry key="S10" value="1.4332464259310909" />
+      <entry key="S30" value="3.934908739185581" />
+      <entry key="S60" value="6.140369498971004" />
+      <entry key="M2" value="8.612038038367448" />
+      <entry key="M5" value="14.095935607318998" />
+      <entry key="M10" value="19.59158376025755" />
+      <entry key="M15" value="22.48779195164032" />
+      <entry key="M30" value="26.20499405072073" />
+      <entry key="H1" value="28.769652767553083" />
+      <entry key="H2" value="35.59558323781917" />
+      <entry key="H4" value="55.70637529660577" />
+      <entry key="D1" value="116.37334827256633" />
+      <entry key="W1" value="136.26485239756929" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -75,23 +75,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.857623593082895E-4" />
-      <entry key="MS500" value="0.20765202351877796" />
-      <entry key="S2" value="0.8345160580694666" />
-      <entry key="S5" value="2.169618122133878" />
-      <entry key="S10" value="3.990278238208094" />
-      <entry key="S30" value="6.7172384224230015" />
-      <entry key="S60" value="8.003181023558293" />
-      <entry key="M2" value="9.653808415616057" />
-      <entry key="M5" value="13.735117756241415" />
-      <entry key="M10" value="19.783174421608006" />
-      <entry key="M15" value="24.033197577554468" />
-      <entry key="M30" value="30.614053598368816" />
-      <entry key="H1" value="35.20699803384187" />
-      <entry key="H2" value="37.934237111505304" />
-      <entry key="H4" value="39.42211666888799" />
-      <entry key="D1" value="40.730526796321904" />
-      <entry key="W1" value="40.961341561929444" />
+      <entry key="MS100" value="2.015097323042972E-16" />
+      <entry key="MS500" value="7.258705978667064E-4" />
+      <entry key="S2" value="0.1641530797497629" />
+      <entry key="S5" value="0.5082322305150865" />
+      <entry key="S10" value="1.0646873136049666" />
+      <entry key="S30" value="3.6772908252539556" />
+      <entry key="S60" value="5.959234406510063" />
+      <entry key="M2" value="8.492731612320595" />
+      <entry key="M5" value="14.022338372296657" />
+      <entry key="M10" value="19.541876751251046" />
+      <entry key="M15" value="22.45010485532776" />
+      <entry key="M30" value="26.183220654097088" />
+      <entry key="H1" value="28.75784726637463" />
+      <entry key="H2" value="35.5891535750816" />
+      <entry key="H4" value="55.702593992388195" />
+      <entry key="D1" value="116.37244601257491" />
+      <entry key="W1" value="136.26471081375695" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,8 +109,13 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "JUnit.CollectionExerciseTests.executor": "Run",
+    "JUnit.CollectionExerciseTests.testLookupAppleColor.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeFruitList.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeFruitMap.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeFruitSet.executor": "Run",
     "JUnit.CollectionExerciseTests.testMakeFruitStringArray.executor": "Run",
     "JUnit.CollectionExerciseTests.testMakeFruitStringArrayWithSize.executor": "Run",
+    "JUnit.CollectionExerciseTests.testMakeListOfThreeFruits.executor": "Run",
     "JUnit.CollectionExerciseTests.testMakeTopThreeArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -131,7 +136,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CollectionExerciseTests.testMakeTopThreeArray">
+  <component name="RunManager" selected="JUnit.CollectionExerciseTests">
     <configuration name="CollectionExerciseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
       <extension name="coverage">
@@ -147,7 +152,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionExerciseTests.testMakeFruitStringArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionExerciseTests.testLookupAppleColor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +162,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
-      <option name="METHOD_NAME" value="testMakeFruitStringArray" />
+      <option name="METHOD_NAME" value="testLookupAppleColor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionExerciseTests.testMakeFruitStringArrayWithSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionExerciseTests.testMakeFruitMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
       <extension name="coverage">
         <pattern>
@@ -173,13 +178,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
-      <option name="METHOD_NAME" value="testMakeFruitStringArrayWithSize" />
+      <option name="METHOD_NAME" value="testMakeFruitMap" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionExerciseTests.testMakeTopThreeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionExerciseTests.testMakeFruitSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
       <extension name="coverage">
         <pattern>
@@ -189,7 +194,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
-      <option name="METHOD_NAME" value="testMakeTopThreeArray" />
+      <option name="METHOD_NAME" value="testMakeFruitSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionExerciseTests.testMakeListOfThreeFruits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CollectionExerciseTests" />
+      <option name="METHOD_NAME" value="testMakeListOfThreeFruits" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,10 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CollectionExerciseTests.testMakeTopThreeArray" />
-        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitStringArrayWithSize" />
-        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitStringArray" />
         <item itemvalue="JUnit.CollectionExerciseTests" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitSet" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testLookupAppleColor" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeFruitMap" />
+        <item itemvalue="JUnit.CollectionExerciseTests.testMakeListOfThreeFruits" />
       </list>
     </recent_temporary>
   </component>
